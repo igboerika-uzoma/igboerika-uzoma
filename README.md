@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uzoma</h1>
 <h3 align="center">A passionate Backend developer from Nigeria</h3>
 
-<p align="center">
-  <img src="[Your Image URL]" alt="A calm Image" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -17,17 +14,8 @@
 
 ---
 
-### Connect with me:
+** Add linkedIn and other sites **
 
-**<p align="left">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-  </a>
-</p>**
-
----
-
-### Languages and Tools:
 
 ---
 
