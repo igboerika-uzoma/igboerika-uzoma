@@ -14,8 +14,6 @@
 
 ---
 
-** Add linkedIn and other sites **
-
 
 ---
 
