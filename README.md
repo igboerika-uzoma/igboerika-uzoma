@@ -1,16 +1,12 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
-<h3 align="center">Full-stack developer based in Nigeria</h3>
+<h1 align="center">Hey there 👋, I'm Uzoma</h1>
+<h3 align="center">Backend developer based in Nigeria</h3>
 
-<p align="center">
-  <img src="[Your Image URL]" alt="A calm Image" />
-</p>
 
-- 🚧 Currently building **a backend-focused project**
-- 🌿 Exploring **Next.js** and **TypeScript**
+- 🚧 Currently building Multi-Tenant SaaS application
+- 🌿 Exploring **Django** and **FastAPI**
 - 🤝 Open to working together on **various exciting ideas**
-- 💡 I enjoy talking about **JavaScript**, **Node.js**, and **MongoDB**
-- 📩 Reach out via **[alameenbalogun61@gmail.com](mailto:alameenbalogun61@gmail.com)**
-- 🎮 A fun fact: **I enjoy playing games**
+- 📩 Reach out via **[igboerikauzomachiedozie@gmail.com](mailto:igboerikauzomachiedozie@gmail.com)**
+- 🎮 A fun fact: **I'm a pretty decent artist:)**
 
 ---
 
