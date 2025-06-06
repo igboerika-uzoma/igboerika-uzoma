@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Uzoma</h1>
-<h3 align="center">Backend developer based in Nigeria</h3>
+<h3 align="center">Backend developer based in 🇳🇬 </h3>
 
 
 - 🚧 Currently building Multi-Tenant SaaS application
