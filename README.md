@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm Uzoma</h1>
-<h3 align="center">A passionate Backend developer from Nigeria</h3>
-
+<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h3 align="center">Full-stack developer based in Nigeria</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="[Your Image URL]" alt="A calm Image" />
 </p>
 
-- 🛠️ I’m currently working on a Saas
-- 🌱 I’m currently learning Django & FastAPI
-- 🤝 I’m looking to collaborate on lots of different projects
-- 📫 How to reach me: igboerikauzomachiedozie@gmail.com
-- - ⚡ Fun fact: I'm a decent artist
-
----
-
+- 🚧 Currently building **a backend-focused project**
+- 🌿 Exploring **Next.js** and **TypeScript**
+- 🤝 Open to working together on **various exciting ideas**
+- 💡 I enjoy talking about **JavaScript**, **Node.js**, and **MongoDB**
+- 📩 Reach out via **[alameenbalogun61@gmail.com](mailto:alameenbalogun61@gmail.com)**
+- 🎮 A fun fact: **I enjoy playing games**
 
 ---
 
